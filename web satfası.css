@@ -1,0 +1,50 @@
+
+{
+
+background-image:url(/online-kuyumculuk.jpg);
+}
+
+   
+.Üst{
+    width: 95%;
+    height:25px;
+    text-align: center;
+    border: 1px black  solid;
+    background-color: black;
+    padding: 10px ;
+}
+.Üst a{
+    color: rgb(255, 254, 254);
+    text-decoration: none;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif
+  
+    
+}
+.Tr{
+text-align: right;
+margin-top: -10px
+
+}
+
+.reis{
+    margin: 25px;
+}
+
+.Menü{
+
+    text-align: center;
+    margin: 150px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.Menü a{
+    
+    color: rgb(3, 3, 3); 
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+
+}
+
